@@ -96,8 +96,8 @@ A detailed project report is available in the `docs/` folder.
 ## 👤 Author
 **Utkarsh Bachhav**  
 📧 Email: utkarshbachhav08@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/your-linkedin-username  
-💻 GitHub: https://github.com/your-github-username  
+🔗 LinkedIn: www.linkedin.com/in/utkarsh-bachhav-24240b27b
+💻 GitHub: https://github.com/UtkarshBachhav 
 
 ---
 
